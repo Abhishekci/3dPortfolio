@@ -116,6 +116,19 @@ import {
   
   const experiences = [
     {
+      title: "Frontend Developer",
+      company_name: "Avia Technologies",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "April 2023 - April Present",
+      points: [
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
+    },
+    {
       title: "React.js Developer",
       company_name: "Starbucks",
       icon: starbucks,
@@ -128,6 +141,7 @@ import {
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
+  
     {
       title: "React Native Developer",
       company_name: "Tesla",
@@ -172,27 +186,35 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "I thought it was impossible to make a website as beautiful as our product, but Abhishek proved me wrong.",
+      name: "Prasad Vagger",
+      designation: "Backend Engineer - Good boy",
+      company: "Avia Technologies",
+      image: "https://media.licdn.com/dms/image/v2/D4D03AQHrQDQYOTq2Xw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705144277982?e=1738800000&v=beta&t=fqVwwpD5RYVN6RYSM-7PDQEfgzbxuSOVoHfSCQP8xis",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "Abhishek delivered a seamless and visually stunning website that perfectly aligned with our vision, showcasing exceptional web development skills and attention to detail.",
+      name: "MARUTHI B M",
+      designation: "Backend Engineer - Lead",
+      company: "Avia Technologies",
+      image: "https://media.licdn.com/dms/image/v2/C4D03AQHdHg8YqIYwVQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1661428693460?e=1738800000&v=beta&t=X4IYiXnZpRZmP8pMlSThgYSeqP0_HVx0e1B9eI-s1E4",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "I've never met a web developer who truly cares about their clients' success like Abhishek does.",
+      name: "Sangmeshwar PH",
+      designation: "QA Lead",
+      company: "Avia Technologies",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQHHvMUILhD1uw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726842864790?e=1738800000&v=beta&t=7wfYLJd4YBF-J7eTFgsCZ9bq5OpbuM8M9sbRt1NJ8iM",
+    },
+    {
+      testimonial:
+        "After Abhishek optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      name: "Ganavi T S",
+      designation: "Backend Engineer",
+      company: "Avia Technologies",
+      image: "https://media.licdn.com/dms/image/v2/D4D35AQFjokmKVTZuCQ/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1726812153598?e=1734192000&v=beta&t=2shmucIVVxsgw7htGKpNGqGdhgF3vZNJSssr_JHHHpU",
     },
   ];
   
