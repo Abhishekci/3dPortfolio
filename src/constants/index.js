@@ -216,6 +216,14 @@ import {
       company: "Avia Technologies",
       image: "https://media.licdn.com/dms/image/v2/D4D35AQFjokmKVTZuCQ/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1726812153598?e=1734192000&v=beta&t=2shmucIVVxsgw7htGKpNGqGdhgF3vZNJSssr_JHHHpU",
     },
+    {
+      testimonial:
+        "Abhishek's expertise in web development transformed our ideas into a user-friendly, responsive, and visually captivating website.",
+      name: "Dharini Maharana",
+      designation: "Backend Engineer",
+      company: "Avia Technologies",
+      image: "https://media.licdn.com/dms/image/v2/C5103AQHFFqRbVh6VRA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516897255858?e=1738800000&v=beta&t=zizdBp55eg3zLo3Oq1mTZLzHwwdorQZgTk1xJkWWP1Q",
+    },
   ];
   
   const projects = [
